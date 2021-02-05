@@ -1,2 +1,3 @@
-# AVTON
-Advanced Virtual Try On System
+# Openpose
+Pytroch Implementation of Openpose Model
+
